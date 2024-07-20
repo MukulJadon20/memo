@@ -1,12 +1,12 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-function Home() {
+function NotFound() {
   return (
     <div>
-      HOME
+      NOT FOUND
     </div>
   )
 }
 
-export default Home
+export default NotFound
